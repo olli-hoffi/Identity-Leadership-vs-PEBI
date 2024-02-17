@@ -1,4 +1,4 @@
-# Statistical Analysis of Pro-Environmental Behavior Intentions
+# Statistical Analysis of Identity Leadership vs. Pro-Environmental Behavior Intentions
 
 This repository contains the data analysis for a bachelor thesis investigating the impact of identity leadership language on pro-environmental behavior intentions. The project explores various psychological scales and factors such as environmental concern, identification with humanity, and pro-environmental behavior intentions before and after exposure to identity leadership language.
 
